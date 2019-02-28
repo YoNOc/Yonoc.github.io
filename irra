@@ -1,0 +1,47 @@
+{
+	"room": "Felpolândia",
+	"author": "YoNOc",
+	"icon": "https://edm-spot.github.io/icons/room.png",
+	"css": "https://edm-spot.github.io/main.css",
+	"rules": {
+		"allowAutorespond": true,
+		"allowAutowoot": true,
+		"allowAutojoin": false,
+		"allowAutograb": true,
+		"allowSmartVote": true,
+		"allowEmotes": true,
+		"allowShowingMehs": false,
+		"forceSmartVote": false
+	},
+	"ccc": {
+		"admin": "#42A5DC",
+		"ambassador": "#89BE6C",
+		"host": "#f2cd3c",
+		"cohost": "#FFA500",
+		"manager": "#CC3333",
+		"bouncer": "#04B486",
+		"rdj": "#33CCFF",
+		"subscriber": "#918676",
+		"friend": null,
+		"user": "
+	},
+	"images": {
+		"background": "https://cdn.radiant.dj/rcs/bg/15.png",
+		"playback": "https://edm-spot.github.io/background/VideoGlow.png",
+		"admin": null,
+		"ambassador": null,
+		"host": "http://icons.iconarchive.com/icons/famfamfam/mini/16/icon-security-icon.png",
+		"cohost": "http://icons.iconarchive.com/icons/mag1cwind0w/o-sunny-day/16/osd-sun-icon.png",
+		"manager": "https://edm-spot.github.io/icons/manager.pnghttp://icons.iconarchive.com/icons/jeanette-foshee/simpsons-06/16/Bart-Unabridged-Watersliding-Bart-icon.png",
+		"bouncer": "http://icons.iconarchive.com/icons/flameia/xrabbit/16/Java-1-4-icon.png",
+		"rdj": "http://icons.iconarchive.com/icons/turbomilk/zoom-eyed-creatures-2/16/twitter-icon.png",
+		"subscriber": null,
+		"other": null
+	},
+	"emotes": {
+		"freshprincedance": "https://edm-spot.github.io/emotes/freshprincedance.gif",
+		"rooHey": "https://edm-spot.github.io/emotes/rooHey.png",
+		"roohi": "https://edm-spot.github.io/emotes/roohi.gif",
+		"otterhey": "https://edm-spot.github.io/emotes/OtterHey.png"
+	}
+}
